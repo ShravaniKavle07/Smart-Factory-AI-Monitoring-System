@@ -1,0 +1,25 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+
+# Deep Learning and Object Detection
+torch
+torchvision
+ultralytics
+
+# Computer Vision
+opencv-python
+Pillow
+
+# Dashboard
+streamlit
+
+# Jupyter Notebook
+notebook
+ipykernel
+
+# Utilities
+PyYAML
+tqdm
